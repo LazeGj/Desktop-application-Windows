@@ -27,9 +27,11 @@ namespace Pacman
 
         public Brush MyBrush { get; set; }
 
+        public int HEIGHT = 10 * 40 + 10;
+        public int WIDTH = 40 * 15 + 10;
         public Pacman()
         {
-            Center = new Point(20*7,5*20);
+            Center = new Point(40*7+10,5*40+10);
             Direction = Direction.right;
             MyBrush = new SolidBrush(Color.Yellow);
             OpenMouth = true;
@@ -55,48 +57,48 @@ namespace Pacman
                 return false;
             return true;
         }
-        public void Move(int startX,int startY,int Widht,int Height)
+        public void Move(int startX,int startY)
         {
             OpenMouth = !OpenMouth;
 
             if (Direction == Direction.down)
             {
-                Center = new Point(Center.X, Center.Y + 1*20);
-                if (!checkValidate(Center, Widht, Height, startX, startY)) ;
+                Center = new Point(Center.X, Center.Y + 1*40);
+                if (!checkValidate(Center, this.WIDTH,this.HEIGHT, startX, startY)) 
                 {
-                    Center = new Point(Center.X, 20);
+                    Center = new Point(Center.X, 10);
                 }
             }
 
             else if (Direction == Direction.up)
             {
-                Center = new Point(Center.X, Center.Y - 1*20);
+                Center = new Point(Center.X, Center.Y - 1*40);
 
-                if (!checkValidate(Center, Widht, Height, startX, startY)) ;
+                if (!checkValidate(Center, this.WIDTH, this.HEIGHT, startX, startY)) 
                 {
 
-                    Center = new Point(Center.X, Height - 20);
+                    Center = new Point(Center.X, this.HEIGHT );
                 }
             }
 
             else if (Direction == Direction.right)
             {
-                Center = new Point(Center.X + 20, Center.Y);
-                if (!checkValidate(Center, Widht, Height, startX, startY)) ;
+                Center = new Point(Center.X + 40, Center.Y);
+                if (!checkValidate(Center, this.WIDTH, this.HEIGHT, startX, startY)) 
                 {
 
-                    Center = new Point(20, Center.Y);
+                    Center = new Point(10, Center.Y);
                 }
 
             }
 
             else
             {
-                Center = new Point(Center.X - 20, Center.Y);
-                if (!checkValidate(Center, Widht, Height, startX, startY)) ;
+                Center = new Point(Center.X - 40, Center.Y);
+                if (!checkValidate(Center, this.WIDTH, this.HEIGHT, startX, startY)) 
                 {
                     
-                    Center = new Point(Widht-20, Center.Y);
+                    Center = new Point(this.WIDTH, Center.Y);
                 }
             }
 
@@ -106,11 +108,12 @@ namespace Pacman
 
         public bool eat(Point orangeCenter)
         {
-            var diff = Math.Abs((Center.X - orangeCenter.Y) + (Center.Y - orangeCenter.Y));
+            /* var diff = Math.Abs((Center.X - orangeCenter.Y) + (Center.Y - orangeCenter.Y));
 
-            if (diff < 20)
-                return true;
-            return false;
+             if (diff < 20)
+                 return true;
+             return false;*/
+            return Center.Equals(orangeCenter);
         }
 
         public void  Draw(Graphics g)

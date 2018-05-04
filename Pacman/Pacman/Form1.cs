@@ -88,8 +88,8 @@ namespace Pacman
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            game.Move(20,20,this.Width,this.Height);
-            for(int i=0;i<foodLocation.Length;++i)
+            game.Move(10,10);
+           for(int i=0;i<foodLocation.Length;++i)
             {
                 for(int j=0;j<foodLocation[0].Length;++j)
                 {
@@ -99,6 +99,37 @@ namespace Pacman
             }
 
             Invalidate(true);
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Up)
+            {
+                game.ChangeDirecton(Direction.up);
+            }
+            else if(e.KeyCode == Keys.Down)
+            {
+                game.ChangeDirecton(Direction.down);
+            }
+
+            else if (e.KeyCode == Keys.Right)
+            {
+                game.ChangeDirecton(Direction.right);
+            }
+            else if (e.KeyCode == Keys.Left)
+            {
+                game.ChangeDirecton(Direction.left);
+            }
+        }
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            
         }
     }
 }
