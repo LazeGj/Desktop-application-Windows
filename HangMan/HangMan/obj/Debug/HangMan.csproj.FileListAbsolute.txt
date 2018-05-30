@@ -1,0 +1,10 @@
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\Laze\source\repos\VP\HangMan\HangMan\obj\Debug\HangMan.pdb

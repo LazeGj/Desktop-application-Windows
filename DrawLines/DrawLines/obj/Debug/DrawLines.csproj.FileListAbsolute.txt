@@ -1,0 +1,10 @@
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\bin\Debug\DrawLines.exe.config
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\bin\Debug\DrawLines.exe
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\bin\Debug\DrawLines.pdb
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.Form1.resources
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.CoreCompileInputs.cache
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.exe
+C:\Users\Laze\source\repos\VP\DrawLines\DrawLines\obj\Debug\DrawLines.pdb

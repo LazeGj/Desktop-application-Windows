@@ -1,0 +1,15 @@
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\bin\Debug\Interop.WMPLib.dll
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\Interop.WMPLib.dll
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\PacmanForm.csproj.ResolveComReference.cache
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\PacmanForm.csproj.GenerateResource.Cache
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\PacmanForm.csproj.CoreCompileInputs.cache
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\Laze\source\repos\VP\Pacman\Pacman\obj\Debug\PacmanForm.csprojResolveAssemblyReference.cache
