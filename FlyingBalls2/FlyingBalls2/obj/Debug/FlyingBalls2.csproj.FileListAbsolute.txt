@@ -1,0 +1,10 @@
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\bin\Debug\FlyingBalls2.exe.config
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\bin\Debug\FlyingBalls2.exe
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\bin\Debug\FlyingBalls2.pdb
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.csprojResolveAssemblyReference.cache
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.Form1.resources
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.Properties.Resources.resources
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.csproj.GenerateResource.Cache
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.csproj.CoreCompileInputs.cache
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.exe
+C:\Users\Laze\source\repos\FlyingBalls2\FlyingBalls2\obj\Debug\FlyingBalls2.pdb
